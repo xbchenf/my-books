@@ -5,7 +5,7 @@
 ![img_10.png](img_10.png)
 
 Java
-![img_1.png](img_1.png
+![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
 
 Python
@@ -30,5 +30,4 @@ Python
 
 
 还有更多书籍资料就不一一展示了，需要的小伙可添加微信公众号，即可免费领取
-
-![img_12.png](img_12.png)
+<img src="img_12.png" width="200" height="200"/>
