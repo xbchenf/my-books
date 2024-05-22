@@ -29,4 +29,4 @@
 
 还有更多书籍资料就不一一展示了.<br>
 需要的小伙可添加微信公众号，进入共享群，即可免费领取👇👇👇<br>
-<img src="img_12.png" width="200" height="200"/>
+<img src="img_11.png" width="200" height="200"/>
