@@ -1,33 +1,32 @@
 # 程序员各类经典书籍整理收藏
 500多本各类学习书籍，涵盖有Java、Python、C/C++、人工智能、架构设计、网络安全、大数据开发等书籍；可免费下载领取。
 
-![img_9.png](img_9.png)
-![img_10.png](img_10.png)
+<img src="img_9.png" width="50%"/>
+<img src="img_10.png" width="50%"/>
 
-Java
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
+## Java
+<img src="img_1.png" width="50%"/>
+<img src="img_2.png" width="50%"/>
 
-Python
-![img_3.png](img_3.png)
-
-
-人工智能
-![img_4.png](img_4.png)
+## Python
+<img src="img_3.png" width="50%"/>
 
 
-架构设计
-![img_5.png](img_5.png)
-![img_6.png](img_6.png)
-
-网络安全
-![img_7.png](img_7.png)
+## 人工智能
+<img src="img_4.png" width="50%"/>
 
 
-大数据开发
-![img_8.png](img_8.png)
+## 架构设计
+<img src="img_5.png" width="50%"/>
+<img src="img_6.png" width="50%"/>
+
+## 网络安全
+<img src="img_7.png" width="50%"/>
+
+## 大数据开发
+<img src="img_8.png" width="50%"/>
 
 
-
-还有更多书籍资料就不一一展示了，需要的小伙可添加微信公众号，即可免费领取
+还有更多书籍资料就不一一展示了.<br>
+需要的小伙可添加微信公众号，进入共享群，即可免费领取👇👇👇
 <img src="img_12.png" width="200" height="200"/>
