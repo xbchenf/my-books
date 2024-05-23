@@ -9,30 +9,36 @@
 <img src="img_11.png" width="200" height="200"/>
 
 # 以下是部分目录展示
-<img src="img_9.png" width="50%"/>
-<img src="img_10.png" width="50%"/>
-
-## Java
 <img src="img_1.png" width="50%"/>
+
+## 操作系统相关
+<img src="img.png" width="50%"/>
+
+## 数据结构与算法
 <img src="img_2.png" width="50%"/>
 
-## Python
+## Java
 <img src="img_3.png" width="50%"/>
 
-
-## 人工智能
+## Python
 <img src="img_4.png" width="50%"/>
 
+## 人工智能
+<img src="img_5.png" width="50%"/>
 
 ## 架构设计
-<img src="img_5.png" width="50%"/>
 <img src="img_6.png" width="50%"/>
 
 ## 网络安全
-<img src="img_7.png" width="50%"/>
-
-## 大数据开发
 <img src="img_8.png" width="50%"/>
 
+## 大数据开发
+<img src="img_7.png" width="50%"/>
+
+## 前端相关
+<img src="img_9.png" width="50%"/>
+
+## 其他语言
+<img src="img_10.png" width="50%"/>
 
 还有更多书籍资料就不一一展示了.
